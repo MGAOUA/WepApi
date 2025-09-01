@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\T480S\\source\\repos\\ProductWEBAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49AC8B28-0876-4691-99A0-C74477F744D7}|ProductWEBAPI\\ProductWEBAPI.csproj|c:\\users\\t480s\\source\\repos\\productwebapi\\productwebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AC8B28-0876-4691-99A0-C74477F744D7}|ProductWEBAPI\\ProductWEBAPI.csproj|solutionrelative:productwebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AC8B28-0876-4691-99A0-C74477F744D7}|ProductWEBAPI\\ProductWEBAPI.csproj|c:\\users\\t480s\\source\\repos\\productwebapi\\productwebapi\\mappings\\createproductdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AC8B28-0876-4691-99A0-C74477F744D7}|ProductWEBAPI\\ProductWEBAPI.csproj|solutionrelative:productwebapi\\mappings\\createproductdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AC8B28-0876-4691-99A0-C74477F744D7}|ProductWEBAPI\\ProductWEBAPI.csproj|c:\\users\\t480s\\source\\repos\\productwebapi\\productwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AC8B28-0876-4691-99A0-C74477F744D7}|ProductWEBAPI\\ProductWEBAPI.csproj|solutionrelative:productwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AC8B28-0876-4691-99A0-C74477F744D7}|ProductWEBAPI\\ProductWEBAPI.csproj|c:\\users\\t480s\\source\\repos\\productwebapi\\productwebapi\\models\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AC8B28-0876-4691-99A0-C74477F744D7}|ProductWEBAPI\\ProductWEBAPI.csproj|solutionrelative:productwebapi\\models\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AC8B28-0876-4691-99A0-C74477F744D7}|ProductWEBAPI\\ProductWEBAPI.csproj|c:\\users\\t480s\\source\\repos\\productwebapi\\productwebapi\\mappings\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AC8B28-0876-4691-99A0-C74477F744D7}|ProductWEBAPI\\ProductWEBAPI.csproj|solutionrelative:productwebapi\\mappings\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AC8B28-0876-4691-99A0-C74477F744D7}|ProductWEBAPI\\ProductWEBAPI.csproj|c:\\users\\t480s\\source\\repos\\productwebapi\\productwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49AC8B28-0876-4691-99A0-C74477F744D7}|ProductWEBAPI\\ProductWEBAPI.csproj|solutionrelative:productwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AC8B28-0876-4691-99A0-C74477F744D7}|ProductWEBAPI\\ProductWEBAPI.csproj|c:\\users\\t480s\\source\\repos\\productwebapi\\productwebapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AC8B28-0876-4691-99A0-C74477F744D7}|ProductWEBAPI\\ProductWEBAPI.csproj|solutionrelative:productwebapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AC8B28-0876-4691-99A0-C74477F744D7}|ProductWEBAPI\\ProductWEBAPI.csproj|c:\\users\\t480s\\source\\repos\\productwebapi\\productwebapi\\productwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49AC8B28-0876-4691-99A0-C74477F744D7}|ProductWEBAPI\\ProductWEBAPI.csproj|solutionrelative:productwebapi\\productwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AC8B28-0876-4691-99A0-C74477F744D7}|ProductWEBAPI\\ProductWEBAPI.csproj|c:\\users\\t480s\\source\\repos\\productwebapi\\productwebapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AC8B28-0876-4691-99A0-C74477F744D7}|ProductWEBAPI\\ProductWEBAPI.csproj|solutionrelative:productwebapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AC8B28-0876-4691-99A0-C74477F744D7}|ProductWEBAPI\\ProductWEBAPI.csproj|c:\\users\\t480s\\source\\repos\\productwebapi\\productwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AC8B28-0876-4691-99A0-C74477F744D7}|ProductWEBAPI\\ProductWEBAPI.csproj|solutionrelative:productwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AC8B28-0876-4691-99A0-C74477F744D7}|ProductWEBAPI\\ProductWEBAPI.csproj|c:\\users\\t480s\\source\\repos\\productwebapi\\productwebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AC8B28-0876-4691-99A0-C74477F744D7}|ProductWEBAPI\\ProductWEBAPI.csproj|solutionrelative:productwebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AC8B28-0876-4691-99A0-C74477F744D7}|ProductWEBAPI\\ProductWEBAPI.csproj|c:\\users\\t480s\\source\\repos\\productwebapi\\productwebapi\\productwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{49AC8B28-0876-4691-99A0-C74477F744D7}|ProductWEBAPI\\ProductWEBAPI.csproj|solutionrelative:productwebapi\\productwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AC8B28-0876-4691-99A0-C74477F744D7}|ProductWEBAPI\\ProductWEBAPI.csproj|c:\\users\\t480s\\source\\repos\\productwebapi\\productwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49AC8B28-0876-4691-99A0-C74477F744D7}|ProductWEBAPI\\ProductWEBAPI.csproj|solutionrelative:productwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateProductDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\T480S\\source\\repos\\ProductWEBAPI\\ProductWEBAPI\\Mappings\\CreateProductDtoValidator.cs",
+              "RelativeDocumentMoniker": "ProductWEBAPI\\Mappings\\CreateProductDtoValidator.cs",
+              "ToolTip": "C:\\Users\\T480S\\source\\repos\\ProductWEBAPI\\ProductWEBAPI\\Mappings\\CreateProductDtoValidator.cs",
+              "RelativeToolTip": "ProductWEBAPI\\Mappings\\CreateProductDtoValidator.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T19:18:08.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\T480S\\source\\repos\\ProductWEBAPI\\ProductWEBAPI\\Models\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "ProductWEBAPI\\Models\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\T480S\\source\\repos\\ProductWEBAPI\\ProductWEBAPI\\Models\\CreateProductDto.cs",
+              "RelativeToolTip": "ProductWEBAPI\\Models\\CreateProductDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T19:03:27.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\T480S\\source\\repos\\ProductWEBAPI\\ProductWEBAPI\\Mappings\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "ProductWEBAPI\\Mappings\\ProductProfile.cs",
+              "ToolTip": "C:\\Users\\T480S\\source\\repos\\ProductWEBAPI\\ProductWEBAPI\\Mappings\\ProductProfile.cs",
+              "RelativeToolTip": "ProductWEBAPI\\Mappings\\ProductProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T18:40:34.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\T480S\\source\\repos\\ProductWEBAPI\\ProductWEBAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductWEBAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\T480S\\source\\repos\\ProductWEBAPI\\ProductWEBAPI\\Program.cs",
+              "RelativeToolTip": "ProductWEBAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T18:28:10.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\T480S\\source\\repos\\ProductWEBAPI\\ProductWEBAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductWEBAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\T480S\\source\\repos\\ProductWEBAPI\\ProductWEBAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductWEBAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T18:12:34.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\T480S\\source\\repos\\ProductWEBAPI\\ProductWEBAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductWEBAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\T480S\\source\\repos\\ProductWEBAPI\\ProductWEBAPI\\appsettings.json",
+              "RelativeToolTip": "ProductWEBAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-29T18:29:32.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\T480S\\source\\repos\\ProductWEBAPI\\ProductWEBAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ProductWEBAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\T480S\\source\\repos\\ProductWEBAPI\\ProductWEBAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ProductWEBAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T18:54:56.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\T480S\\source\\repos\\ProductWEBAPI\\ProductWEBAPI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ProductWEBAPI\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\T480S\\source\\repos\\ProductWEBAPI\\ProductWEBAPI\\Models\\Category.cs",
+              "RelativeToolTip": "ProductWEBAPI\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T18:20:53.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductWEBAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\T480S\\source\\repos\\ProductWEBAPI\\ProductWEBAPI\\ProductWEBAPI.csproj",
+              "RelativeDocumentMoniker": "ProductWEBAPI\\ProductWEBAPI.csproj",
+              "ToolTip": "C:\\Users\\T480S\\source\\repos\\ProductWEBAPI\\ProductWEBAPI\\ProductWEBAPI.csproj",
+              "RelativeToolTip": "ProductWEBAPI\\ProductWEBAPI.csproj",
+              "ViewState": "AgIAAAkAAAAAVyd7KPkVwAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-29T18:43:47.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\T480S\\source\\repos\\ProductWEBAPI\\ProductWEBAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ProductWEBAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\T480S\\source\\repos\\ProductWEBAPI\\ProductWEBAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ProductWEBAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAABBwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T18:26:50.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\T480S\\source\\repos\\ProductWEBAPI\\ProductWEBAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ProductWEBAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\T480S\\source\\repos\\ProductWEBAPI\\ProductWEBAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "ProductWEBAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T18:45:54.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductWEBAPI.http",
+              "DocumentMoniker": "C:\\Users\\T480S\\source\\repos\\ProductWEBAPI\\ProductWEBAPI\\ProductWEBAPI.http",
+              "RelativeDocumentMoniker": "ProductWEBAPI\\ProductWEBAPI.http",
+              "ToolTip": "C:\\Users\\T480S\\source\\repos\\ProductWEBAPI\\ProductWEBAPI\\ProductWEBAPI.http",
+              "RelativeToolTip": "ProductWEBAPI\\ProductWEBAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-29T18:36:44.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\T480S\\source\\repos\\ProductWEBAPI\\ProductWEBAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductWEBAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\T480S\\source\\repos\\ProductWEBAPI\\ProductWEBAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductWEBAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-29T18:30:43.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
