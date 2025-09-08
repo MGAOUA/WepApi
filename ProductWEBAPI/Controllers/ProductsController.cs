@@ -21,7 +21,7 @@ namespace ProductWEBAPI.Controllers
         }
 
         [HttpPost]
-        public ActionResult<ProductDto> CreateProduct(CreateProductDto createDto)
+        public IActionResult CreateProduct(CreateProductDto createDto)
         {
             var productEntity = _mapper.Map<Product>(createDto); // Maps DTO -> Product
                                                                  // ... save entity to database
@@ -73,7 +73,6 @@ namespace ProductWEBAPI.Controllers
         {
             throw new NotImplementedException();
         }
-
 
     }
 }

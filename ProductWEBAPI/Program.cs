@@ -1,5 +1,7 @@
+using AutoMapper;
 using FluentValidation;
 using Microsoft.Extensions.DependencyInjection;
+using ProductWEBAPI.Mappings;
 using ProductWEBAPI.Models;
 using static ProductWEBAPI.Mappings.ProductProfile;
 
@@ -8,7 +10,9 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllers();
-builder.Services.AddAutoMapper(cfg => {
+//builder.Services.AddAutoMapper(typeof(Program));
+builder.Services.AddAutoMapper(cfg =>
+{
     // Manual configuration (not typical if using Profiles)
     cfg.CreateMap<CreateProductDto, Product>(); // Map DTO to Entity
     cfg.CreateMap<Product, ProductDto>();        // Map Entity to DTO
