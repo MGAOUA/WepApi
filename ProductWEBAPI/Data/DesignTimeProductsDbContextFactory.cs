@@ -11,7 +11,7 @@ namespace ProductWEBAPI.Data
                 .SetBasePath(Directory.GetCurrentDirectory())
                 .AddJsonFile("appsettings.json")
                 .Build();
-
+            // factory class 
             var optionsBuilder = new DbContextOptionsBuilder<ProductsDbContext>();
             var connectionString = config.GetConnectionString("DefaultConnection");
 
