@@ -11,6 +11,10 @@
         public int CategoryId { get; set; } // Foreign Key
 
         // Navigation property (defines the relationship)
+       /// <summary>
         public Category Category { get; set; }
+       /// </summary>
+       /// // Lazy loading applied using virtual keyword
+       // public virtual Category Category { get; set; } // Notice 'virtual' keyword
     }
 }

@@ -20,6 +20,7 @@ namespace ProductWEBAPI.Models
 
         [EmailAddress] // Example of a built-in validation attribute
         public string SupplierEmail { get; set; }
+        public int CategoryId { get; set; } // Foreign Key
     }
 
 }
